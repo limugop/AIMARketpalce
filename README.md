@@ -83,6 +83,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ---
 
-![Uploading Снимок экрана 2024-10-04 в 15.08.46.png…]()
+<img width="1680" alt="Снимок экрана 2024-10-04 в 15 08 46" src="https://github.com/user-attachments/assets/fb9b0da1-e353-4f28-91f8-1e8eac573ccf">
+
 
 
