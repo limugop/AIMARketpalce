@@ -83,6 +83,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ---
 
-## ✉️ **Contact**
-For questions or feedback, reach out at [your email address].
+![Uploading Снимок экрана 2024-10-04 в 15.08.46.png…]()
+
 
